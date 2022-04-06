@@ -1,1 +1,1 @@
-# mlops_report
+Материалы для подготовки доклада на курс Yandex Q ML Ops

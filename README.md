@@ -1,9 +1,3 @@
 Материалы для подготовки доклада на курс Yandex Q ML Ops
 
-ONNX RuBert https://drive.google.com/drive/folders/15GSFudYK6FYnPBcvZNvr8jwQ8uePaxHU?usp=sharing
-
-RuBert Prunning https://drive.google.com/file/d/18Kr2WllY_pEM4Nfzqes834t80LUtU2G7/view?usp=sharing
-
-ONNX RuBert quantization https://drive.google.com/file/d/1Kf2SsfwuVarIrsd-c9_LonZcG_S-H0k5/view?usp=sharing
-
-TorchScript RuBert https://drive.google.com/file/d/1i4Lo9PidHpgQ2eInesG0zOFCyZ1g6FiA/view?usp=sharing
+Модели https://drive.google.com/drive/folders/1HeQQsAiW-j6FX0OaU3cGqfxAyAYtMXMn?usp=sharing
